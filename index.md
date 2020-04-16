@@ -14,10 +14,6 @@ Physically, Jon is in pretty good shape. He is average-height with chocolate ski
 
 He grew up in a working class neighbourhood. After his father died when he was young, he was raised by his mother.
 
-He is currently married to Isabella Ellis Moore. Isabella is 10 years older than him and works as a journalist.
-
-Jon has two children with wife Isabella: Brooklyn aged 2 and Stella aged 3.
-
 ### Contact
 
 The easiest way to apply new edits and request future changes is the markdown method. Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
