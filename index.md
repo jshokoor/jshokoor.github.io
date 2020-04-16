@@ -12,7 +12,7 @@ He is an American Jedi. He has a degree in sports science. He is allergic to egg
 
 Physically, Jon is in pretty good shape. He is average-height with chocolate skin, grey hair and black eyes. He has a tattoo of a bookshelf between his shoulder blades.
 
-He grew up in a working class neighbourhood. After his mother died when he was young, he was raised by his father
+He grew up in a working class neighbourhood. After his father died when he was young, he was raised by his mother.
 
 He is currently married to Isabella Ellis Moore. Isabella is 10 years older than him and works as a journalist.
 
