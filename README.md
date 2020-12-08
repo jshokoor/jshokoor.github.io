@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+Career Blog
 
-You can use the [editor on GitHub](https://github.com/jshokoor/jshokoor.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Starting my first blog. I am not sure if it will focus on any specific subject or interest, though to start, I will write about the life of a programmer.
+I want to journal my experiences in my journey as a professional programmer, an activity, which if nothing else, will provide me a tool to reflect and track my progress.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A couple sources of motivation for me to start this activity, is my cousin (names will be omitted for now), who occasionally asks me, “What do you actually do as a programmer?”. The other, is a friend who operates her own blog, sharing her trials and tribulations as she makes her way through med school.
+I’ll finish this first blog post with a brief autobiographical introduction into my life, particularly how I got into programming.
 
-### Markdown
+I started to program relatively late in life, compared to many of my peers who have come to be introduced earlier in their lives, most often in their teens (based on my own personal encounters, not on any verifiable statistics). I was in my last year of community college at San Diego Mesa College, studying to be a Civil Engineer (2011-2012 academic year, I was 24 years old), and my curriculum required 2 programming classes, Java and C++. This will probably be the most difficult experience to describe, which is unfortunate, as I have come to base my career, livelihood, and sense of being around this new-found “passion”. Passion is in quotes, because I know that passion should be measured differently for an activity that I employ in order to make a living, compared to my other passions where the emotional effects are much more intense.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jshokoor/jshokoor.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Fast-forwarding to my acceptance into UCI, as a Computer Game-Science major, I could not have been in a better position to succeed in life, at that exact point, given the circumstances. My experiences at UCI will likely consume its own fair share of blog posts, but to summarize, I went through a culture-shock for the better. Since graduating, I landed a job back home in San Diego as a Software Developer (web development) that I procured thanks to a family connection working at the company. That stint lasted a year, which has only been followed-up by a brief 3-month contract, in which I worked for a marketing agency in Irvine. It has been 14 months since I got let go from my first job and here I am today, looking for a job/purpose in life (saving all the drama of the post for the end, not surprisingly, in melodramatic fashion).
